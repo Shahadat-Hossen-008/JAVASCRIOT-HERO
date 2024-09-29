@@ -9,6 +9,12 @@ function longestWord(str){
             word ='' + item;
         }
     }
+    // for(let i = 0; i<str2.length; i++){
+    //     if(longWord<str2[i].length){
+    //         longWord = str2[i].length;
+    //         word ='' + str2[i];
+    //     }
+    // }
     return word
 }
 let sentenceString = 'I learn programming to become programmer';
